@@ -9,7 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.londonappbrewery.iampoor.MainActivity"
 
-    android:background="@color/colorPrimary"
+    android:background="@color/colorAccent"
     >
 
 
